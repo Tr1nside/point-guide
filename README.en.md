@@ -16,8 +16,8 @@ This repository serves as a **centralized catalog of self-written and verified g
 
 **Tools:**
 
-- [**GIT**](guides/GIT/README.md)
-- [**Conda**](guides/CONDA/README.md)
+- [**GIT**](/guides/GIT/README.md)
+- [**Conda**](/guides/CONDA/README.md)
 
 **CONTRIBUTING:**
 [ℹ️ How to contribute? (CONTRIBUTING.md)](CONTRIBUTING.md)
