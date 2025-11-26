@@ -100,7 +100,7 @@ git config --global credential.helper store
 
 ## Что дальше?
 
-Далее можно переходить к [01. GIT: Базовые комманды](02_base_command.md)
+Далее можно переходить к [02. GIT: Базовые комманды](02_base_command.md)
 
 ---
 
