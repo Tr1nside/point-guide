@@ -15,11 +15,11 @@
 
 ### 1. Основы (Git Basics)
 
-* [---](templates/GUIDE_PAGE_TEMPLATE.md)
+* [---](GUIDE_PAGE_TEMPLATE.md)
 
 ### 2. Продвинутые техники (Advanced Topics)
 
-* [---](templates/GUIDE_PAGE_TEMPLATE.md)
+* [---](GUIDE_PAGE_TEMPLATE.md)
 
 ---
 
