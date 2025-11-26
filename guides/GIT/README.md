@@ -16,8 +16,8 @@
 
 ### 1. Основы
 
-* [Установка и настройка](guides/GIT/01_install_config.md)
-* [Базовые команды](guides/GIT/02_base_command.md)
+* [Установка и настройка](01_install_config.md)
+* [Базовые команды](02_base_command.md)
 
 ### 2. Продвинутые техники
 
