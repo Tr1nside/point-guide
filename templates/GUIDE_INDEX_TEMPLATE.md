@@ -15,14 +15,14 @@
 
 ### 1. Основы (Git Basics)
 
-* [---](GUIDE_PAGE_TEMPLATE.md)
+* [---](templates/GUIDE_PAGE_TEMPLATE.md)
 
 ### 2. Продвинутые техники (Advanced Topics)
 
-* [---](GUIDE_PAGE_TEMPLATE.md)
+* [---](templates/GUIDE_PAGE_TEMPLATE.md)
 
 ---
 
 ## 🔗 Полезные ссылки
 
-* Официальная документация Git (EN)
+* Официальная документация
