@@ -16,8 +16,8 @@
 
 **Инструменты:**
 
-- [**GIT**](guides/GIT/README.md)
-- [**Conda**](guides/CONDA/README.md)
+- [**GIT**](/guides/GIT/README.md)
+- [**Conda**](/guides/CONDA/README.md)
 
 **CONTRIBUTING:**
 [ℹ️ Как внести свой вклад? (CONTRIBUTING.md)](CONTRIBUTING.md)
