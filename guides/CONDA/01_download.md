@@ -52,6 +52,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 
 Обновляем конфигурацию оболочки:
 
+```bash
 # Для bash
 
 source ~/.bashrc
@@ -59,12 +60,15 @@ source ~/.bashrc
 # Для zsh
 
 source ~/.zshrc
+```
 
 ### ✅ Проверка установки
 
 После завершения установки проверьте версию Conda:
 
+```bash
 conda --version
+```
 
 Успешная установка покажет номер версии, например: conda 23.7.4
 
